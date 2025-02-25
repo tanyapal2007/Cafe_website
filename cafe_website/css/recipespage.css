@@ -1,0 +1,71 @@
+.logo1-img{
+	height: 100px;
+	width: 80px;
+	margin-left: 45%;
+}
+.head1-h1{
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+}
+.main-heading-div{
+	border-bottom: 2px solid black;
+}
+/*nav start*/
+.nav-a-1{
+	text-decoration: none;
+	font-size: 20px;
+}
+.main-ul-1 li{
+	list-style-type: none;
+}
+.main-ul-1{
+	display: flex;
+	gap: 50px;
+}
+.main-nav-1{
+	margin-top: 40px;
+	margin-left: 250px;
+}
+.nav-div-1{
+	display: flex;
+/*	background-color: #ff914d;*/
+	height: 150px;
+	width: 100%;
+/*	border-bottom: 2px solid black;*/
+}
+.nav-a-1:hover{
+	color: #ff914d;
+}
+/*nav-end*/
+.blog-div{
+	height: 850px;
+	width: 1000px;
+	margin-left: 200px;
+	border: 2px solid black;
+/*	background-color: #987653;*/
+}
+.img1{
+	height: 600px;
+	width: 1000px;
+/*	margin-top: 20px;*/
+}
+.admin-p-1{
+	margin-left: 80px;
+}
+.h1-head{
+	font-style: italic;
+	margin-left: 20px;
+	font-size: 40px;
+}
+.para-p{
+	margin-left: 20px;
+	font-size: 20px;
+}
+.blog-div{
+	margin-top: 20px;
+}
+.main-blog-div{
+	border-bottom: 2px solid black;
+	padding-bottom: 20px;
+}

@@ -1,0 +1,28 @@
+.bell-img{
+	height: 50px;
+	width: 50px;
+	margin-left: 46%;
+	margin-top: 10px;
+}
+.h1-1{
+	font-size: 40px;
+	font-style: italic;
+	margin-left: 43%;
+}
+.about-div{
+	border-bottom: 2px solid black;
+}
+.about-img1{
+	margin: 30px;
+}
+.heading-1{
+	font-size: 30px;
+	font-style: italic;
+	margin-top: 40px;
+}
+.content-div{
+	display: flex;
+}
+.content-p{
+	font-size: 20px;
+}

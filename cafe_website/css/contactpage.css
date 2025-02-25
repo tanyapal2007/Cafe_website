@@ -1,0 +1,61 @@
+.mess-logo-1{
+	height: 50px;
+	width: 50px;
+	margin-left: 720px;
+}
+.text-h1-1{
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+}
+.heading-div-1{
+	border-bottom: 2px solid black;
+}
+.con-img{
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.name-1{
+	border:none;
+/*	background-color: transparent;*/
+	outline: none;
+	border-bottom: 2px solid black;
+/*	width: 80px;*/
+}
+.email-1{
+	border:none;
+/*	background-color: transparent;*/
+	outline: none;
+	border-bottom: 2px solid black;
+	width: 250px;
+}
+.text1-1{
+	border:none;
+/*	background-color: transparent;*/
+	outline: none;
+	border-bottom: 2px solid black;
+	width: 250px;
+	padding: 20px;
+}
+.name-div{
+	display:flex;
+	gap: 50px;
+	margin-top: 20px;
+}
+
+.con-div{
+	display:flex;
+	gap: 50px;
+	border-bottom: 3px solid black;
+	padding-bottom: 20px;
+}
+.but-sub1{
+	margin-left: 200px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.but-sub1 a{
+	text-decoration: none;
+}
